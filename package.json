@@ -20,5 +20,8 @@
   "license": "Public domain",
   "bugs": {
     "url": "https://github.com/freezedev/dropoff/issues"
+  },
+  "dependencies": {
+    "consolidate": "~0.9.1"
   }
 }
